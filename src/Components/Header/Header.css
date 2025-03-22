@@ -1,0 +1,12 @@
+.hero-image {
+
+    object-fit: cover;
+
+
+    width: 30%;
+    height: 80vh;
+}
+
+.img-h-mob {
+    background-image: linear-gradient(#e35914 , #fa349b);
+}
