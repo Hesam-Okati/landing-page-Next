@@ -3,6 +3,7 @@ import React from 'react'
 import "bootstrap/dist/css/bootstrap.min.css"
 import Header from '@/Components/Header/Header'
 import TopBoxes from '@/Components/TopBoxes/TopBoxes'
+import QuoteBar from '@/Components/QuoteBar/QuoteBar'
 
 function page() {
   return (
@@ -13,6 +14,7 @@ function page() {
       </div>
 
       <TopBoxes />
+      <QuoteBar />
     </div>
   )
 }

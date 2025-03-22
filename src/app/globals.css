@@ -12,3 +12,7 @@
 .bgc-dark {
   background-color: #000000;
 }
+
+.text-orange {
+  color: hsl(14.5, 95.2%, 59%);
+}
