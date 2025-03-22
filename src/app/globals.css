@@ -16,3 +16,7 @@
 .text-orange {
   color: hsl(14.5, 95.2%, 59%);
 }
+
+.bg-gray {
+  background-color: #f6f5f4;
+}

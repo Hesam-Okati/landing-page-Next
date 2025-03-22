@@ -1,0 +1,35 @@
+.Benefits {
+    padding: 50px 0;
+    direction: rtl;
+}
+
+.b-item {
+
+    text-align: right;
+
+    background-color: #fff;
+    padding: 30px;
+
+    border-radius: 30px;
+
+    margin-top: 50px;
+    width: 25%;
+
+    img {
+        width: 30%;
+        margin-bottom: 10px;
+    }
+
+    h3 {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+}
+
+.b-wrapper {
+    align-items: center;
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    gap: 10px;
+}
