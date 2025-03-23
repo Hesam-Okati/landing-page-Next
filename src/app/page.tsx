@@ -7,6 +7,7 @@ import QuoteBar from '@/Components/QuoteBar/QuoteBar'
 import Benefits from '@/Components/Benefits/Benefits'
 import About from '@/Components/About/About'
 import Footer from '@/Components/Footer/Footer'
+import TableArea from '@/Components/TableArea/TableArea'
 
 function page() {
   return (
@@ -24,6 +25,9 @@ function page() {
       <Benefits />
       <About />
       </div>
+
+
+<TableArea />
 
     <div className="bgc-dark">
       <Footer />

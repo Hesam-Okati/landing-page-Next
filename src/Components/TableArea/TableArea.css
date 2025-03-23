@@ -1,0 +1,10 @@
+.ta-inp {
+        border: none;
+        border-bottom: 1px solid black;
+        margin-right: 30px;
+        padding: 8px;
+        &:focus {
+            outline: none;
+        }
+        
+}

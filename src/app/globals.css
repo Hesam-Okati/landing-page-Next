@@ -22,5 +22,5 @@
 }
 
 .img-h-mob {
-  background-image: linear-gradient(#e35914 , #fa349b);
+  background-image: linear-gradient(#e35914 , #fa349b) !important;
 }
