@@ -5,6 +5,7 @@ import Header from '@/Components/Header/Header'
 import TopBoxes from '@/Components/TopBoxes/TopBoxes'
 import QuoteBar from '@/Components/QuoteBar/QuoteBar'
 import Benefits from '@/Components/Benefits/Benefits'
+import About from '@/Components/About/About'
 
 function page() {
   return (
@@ -20,6 +21,7 @@ function page() {
 
       <div className='bg-gray'>
       <Benefits />
+      <About />
       </div>
     </div>
   )
