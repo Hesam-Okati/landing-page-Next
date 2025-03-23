@@ -1,0 +1,13 @@
+.ftr-items{
+    list-style-type: none;
+}
+
+.Footer {
+    direction: rtl;
+}
+
+
+.ftr-icons {
+    background-color: #fa6333;
+    color: #fff;
+}
